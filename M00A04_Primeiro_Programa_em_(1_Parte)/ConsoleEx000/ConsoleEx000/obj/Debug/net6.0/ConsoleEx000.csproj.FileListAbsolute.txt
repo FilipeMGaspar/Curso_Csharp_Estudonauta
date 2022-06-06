@@ -1,0 +1,15 @@
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\bin\Debug\net6.0\ConsoleEx000.exe
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\bin\Debug\net6.0\ConsoleEx000.deps.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\bin\Debug\net6.0\ConsoleEx000.runtimeconfig.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\bin\Debug\net6.0\ConsoleEx000.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\bin\Debug\net6.0\ConsoleEx000.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.AssemblyInfo.cs
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\obj\Debug\net6.0\refint\ConsoleEx000.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\obj\Debug\net6.0\ConsoleEx000.genruntimeconfig.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A04_Primeiro_Programa_em_(1_Parte)\ConsoleEx000\ConsoleEx000\obj\Debug\net6.0\ref\ConsoleEx000.dll
