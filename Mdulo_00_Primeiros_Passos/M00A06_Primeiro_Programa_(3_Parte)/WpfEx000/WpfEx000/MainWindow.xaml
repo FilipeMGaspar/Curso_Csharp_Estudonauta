@@ -11,8 +11,8 @@
             <ColumnDefinition/>
             <ColumnDefinition Width="7*"/>
         </Grid.ColumnDefinitions>
-        <Button Grid.Column="1" Content="Clique em Mim" HorizontalAlignment="Left" Margin="84,264,0,0" VerticalAlignment="Top" Width="398" Height="80" FontSize="24" FontFamily="Arial" FontWeight="Bold"/>
-        <Label Grid.Column="1" Content="Label" HorizontalAlignment="Center" Margin="0,47,0,0" VerticalAlignment="Top" Width="624" Height="125" FontSize="18" FontWeight="Bold"/>
+        <Button x:Name="btn" Grid.Column="1" Content="Clique em Mim" HorizontalAlignment="Left" Margin="84,264,0,0" VerticalAlignment="Top" Width="398" Height="80" FontSize="24" FontFamily="Arial" FontWeight="Bold"/>
+        <Label x:Name="lblMsg" Grid.Column="1" Content="" HorizontalAlignment="Center" Margin="0,47,0,0" VerticalAlignment="Top" Width="624" Height="125" FontSize="18" FontWeight="Bold"/>
 
     </Grid>
 </Window>
