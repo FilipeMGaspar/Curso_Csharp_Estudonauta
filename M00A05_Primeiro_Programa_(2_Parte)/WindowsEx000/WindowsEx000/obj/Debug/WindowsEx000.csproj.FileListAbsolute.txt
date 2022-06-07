@@ -1,0 +1,11 @@
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A05_Primeiro_Programa_(2_Parte)\WindowsEx000\WindowsEx000\bin\Debug\WindowsEx000.exe.config
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A05_Primeiro_Programa_(2_Parte)\WindowsEx000\WindowsEx000\bin\Debug\WindowsEx000.exe
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A05_Primeiro_Programa_(2_Parte)\WindowsEx000\WindowsEx000\bin\Debug\WindowsEx000.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A05_Primeiro_Programa_(2_Parte)\WindowsEx000\WindowsEx000\obj\Debug\WindowsEx000.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A05_Primeiro_Programa_(2_Parte)\WindowsEx000\WindowsEx000\obj\Debug\WindowsEx000.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A05_Primeiro_Programa_(2_Parte)\WindowsEx000\WindowsEx000\obj\Debug\WindowsEx000.Form1.resources
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A05_Primeiro_Programa_(2_Parte)\WindowsEx000\WindowsEx000\obj\Debug\WindowsEx000.Properties.Resources.resources
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A05_Primeiro_Programa_(2_Parte)\WindowsEx000\WindowsEx000\obj\Debug\WindowsEx000.csproj.GenerateResource.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A05_Primeiro_Programa_(2_Parte)\WindowsEx000\WindowsEx000\obj\Debug\WindowsEx000.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A05_Primeiro_Programa_(2_Parte)\WindowsEx000\WindowsEx000\obj\Debug\WindowsEx000.exe
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\M00A05_Primeiro_Programa_(2_Parte)\WindowsEx000\WindowsEx000\obj\Debug\WindowsEx000.pdb

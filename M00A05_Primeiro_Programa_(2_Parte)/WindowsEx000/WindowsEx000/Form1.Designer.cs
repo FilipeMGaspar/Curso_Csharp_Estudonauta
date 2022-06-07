@@ -34,6 +34,7 @@
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Primeiro Programa C#";
             this.TopMost = true;
