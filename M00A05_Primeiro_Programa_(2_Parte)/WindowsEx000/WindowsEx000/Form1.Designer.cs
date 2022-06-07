@@ -39,7 +39,7 @@
             this.btn.Name = "btn";
             this.btn.Size = new System.Drawing.Size(178, 55);
             this.btn.TabIndex = 0;
-            this.btn.Text = "Click em Mim";
+            this.btn.Text = "Clique em Mim";
             this.btn.UseVisualStyleBackColor = true;
             this.btn.Click += new System.EventHandler(this.btn_Click);
             // 
@@ -50,7 +50,6 @@
             this.lblMsg.Name = "lblMsg";
             this.lblMsg.Size = new System.Drawing.Size(246, 70);
             this.lblMsg.TabIndex = 1;
-            this.lblMsg.Text = "label1";
             this.lblMsg.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
