@@ -24,5 +24,10 @@ namespace WpfEx000
         {
             InitializeComponent();
         }
+
+        private void btn_Click(object sender, RoutedEventArgs e)
+        {
+            lblMsg.Content = "Olá, Mundo!";
+        }
     }
 }
