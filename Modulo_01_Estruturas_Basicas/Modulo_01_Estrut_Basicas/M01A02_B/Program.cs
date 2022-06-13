@@ -9,4 +9,13 @@ Console.WriteLine("Oi, \ntudo \nBem!");
 Console.ReadKey();
 
 /*
+ 
+ *  \n    Nova linha
+ *   \t    Tabulação
+ *  \b    Backspace apaga um espaço
+ *  \a    Alerta
+ *  \r    Retorno   Volta ao inicio da linha
+ *  \\    Barra
+ *  \"    Aspas
+ 
  */
