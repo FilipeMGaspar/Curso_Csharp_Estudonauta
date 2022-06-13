@@ -2,3 +2,4 @@
 Console.WriteLine("Oi,");
 Console.WriteLine("Tudo");
 Console.WriteLine("Bem?");
+Console.ReadKey();
