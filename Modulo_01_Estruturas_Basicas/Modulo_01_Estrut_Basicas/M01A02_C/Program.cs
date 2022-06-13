@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Estudonauta!");
+Console.WriteLine("Estud\tonauta!");
+Console.WriteLine("Estud\bonauta!");
 Console.ReadKey();
 
 /*
