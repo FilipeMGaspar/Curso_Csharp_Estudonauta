@@ -4,7 +4,9 @@ Console.WriteLine("Tudo");
 Console.WriteLine("Bem?");
 Console.ReadKey();
 
+Console.WriteLine();
 Console.WriteLine("Oi, \ntudo \nBem!");
+Console.ReadKey();
 
 /*
  */
