@@ -1,0 +1,15 @@
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\bin\Debug\net6.0\M01A02_B.exe
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\bin\Debug\net6.0\M01A02_B.deps.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\bin\Debug\net6.0\M01A02_B.runtimeconfig.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\bin\Debug\net6.0\M01A02_B.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\bin\Debug\net6.0\M01A02_B.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\obj\Debug\net6.0\M01A02_B.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\obj\Debug\net6.0\M01A02_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\obj\Debug\net6.0\M01A02_B.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\obj\Debug\net6.0\M01A02_B.AssemblyInfo.cs
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\obj\Debug\net6.0\M01A02_B.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\obj\Debug\net6.0\M01A02_B.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\obj\Debug\net6.0\refint\M01A02_B.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\obj\Debug\net6.0\M01A02_B.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\obj\Debug\net6.0\M01A02_B.genruntimeconfig.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\Modulo_01_Estrut_Basicas\M01A02_B\obj\Debug\net6.0\ref\M01A02_B.dll
