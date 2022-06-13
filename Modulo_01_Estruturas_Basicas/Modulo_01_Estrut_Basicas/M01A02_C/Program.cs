@@ -6,7 +6,7 @@ Console.WriteLine("Estudonauta! \a");
 Console.WriteLine("Estudonau\rta");
 Console.WriteLine("\\Estudonauta\\");
 Console.WriteLine(@"\Estudonauta\");
-Console.WriteLine("\"Estudonauta\"")
+Console.WriteLine("\"Estudonauta\"");
 Console.ReadKey();
 
 /*
