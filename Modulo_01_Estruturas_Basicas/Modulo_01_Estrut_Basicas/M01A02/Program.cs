@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.Write("Oi");
+Console.WriteLine("Oi");
+Console.Write("Tudo Bem?");
 Console.ReadKey();
