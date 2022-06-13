@@ -7,5 +7,8 @@ Console.ReadKey();
 Console.ResetColor(); // Limpa as configurações das cores
 Console.Clear(); // Limpa a tela do console
 Console.SetCursorPosition(10, 15); //Recoloca a posição do cursor
+Console.ForegroundColor = ConsoleColor.White;  //Cor da letra
+Console.BackgroundColor = ConsoleColor.DarkBlue;
 Console.WriteLine("Tudo bem com você");
+Console.ResetColor(); // Método para limpar as configurações de cor
 Console.ReadKey();
