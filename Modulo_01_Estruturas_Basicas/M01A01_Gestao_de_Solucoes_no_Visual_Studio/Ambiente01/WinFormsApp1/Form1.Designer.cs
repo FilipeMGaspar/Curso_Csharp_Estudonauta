@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -39,16 +40,22 @@
             this.label1.Size = new System.Drawing.Size(159, 15);
             this.label1.TabIndex = 0;
             this.label1.Text = "Executando o segundo teste!";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label2.Location = new System.Drawing.Point(29, 113);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(345, 32);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "Executando o segundo teste!";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(510, 238);
-            this.Controls.Add(this.label1);
+            this.ClientSize = new System.Drawing.Size(455, 261);
+            this.Controls.Add(this.label2);
             this.Name = "Form1";
-            this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -57,5 +64,6 @@
         #endregion
 
         private Label label1;
+        private Label label2;
     }
 }
