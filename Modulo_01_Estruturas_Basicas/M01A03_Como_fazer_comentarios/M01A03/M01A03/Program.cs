@@ -13,3 +13,15 @@ Console.ResetColor();
  *  Multiplas linhas
  *  
  */
+
+/// <summary>
+/// Método executado automaticamente ao clicar em executar
+/// 
+/// <returns> este métode não efetua retorno</returns>
+/// <exemple>
+///     <code>
+///         Podemos executar como programa.exe ....
+///     </code>
+/// </exemple>
+/// </summary>
+
