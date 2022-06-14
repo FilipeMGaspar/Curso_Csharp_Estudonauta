@@ -5,3 +5,11 @@ Console.BackgroundColor = ConsoleColor.White; // cor de fundo
 Console.WriteLine("Olá, Mundo!");
 Console.ReadKey();
 Console.ResetColor();
+
+// Comentário de uma linha
+
+/*
+ *  Comentários de 
+ *  Multiplas linhas
+ *  
+ */
