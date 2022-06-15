@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿byte idade = 25;
+ushort publicoEstadio = 24050;
+float media = 4.5f;
