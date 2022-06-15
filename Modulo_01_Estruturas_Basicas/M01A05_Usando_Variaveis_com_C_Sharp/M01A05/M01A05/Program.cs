@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var n = 0;
+Console.WriteLine("avariavel n tem o valor de " + n);
