@@ -3,3 +3,13 @@ C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_
 C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\obj\Debug\net6.0\M01A05.AssemblyInfoInputs.cache
 C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\obj\Debug\net6.0\M01A05.AssemblyInfo.cs
 C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\obj\Debug\net6.0\M01A05.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\bin\Debug\net6.0\M01A05.exe
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\bin\Debug\net6.0\M01A05.deps.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\bin\Debug\net6.0\M01A05.runtimeconfig.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\bin\Debug\net6.0\M01A05.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\bin\Debug\net6.0\M01A05.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\obj\Debug\net6.0\M01A05.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\obj\Debug\net6.0\refint\M01A05.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\obj\Debug\net6.0\M01A05.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\obj\Debug\net6.0\M01A05.genruntimeconfig.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\obj\Debug\net6.0\ref\M01A05.dll
