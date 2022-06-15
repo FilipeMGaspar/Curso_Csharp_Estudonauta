@@ -1,0 +1,5 @@
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\obj\Debug\net6.0\M01A05.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\obj\Debug\net6.0\M01A05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\obj\Debug\net6.0\M01A05.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\obj\Debug\net6.0\M01A05.AssemblyInfo.cs
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A05_Usando_Variaveis_com_C_Sharp\M01A05\M01A05\obj\Debug\net6.0\M01A05.csproj.CoreCompileInputs.cache
