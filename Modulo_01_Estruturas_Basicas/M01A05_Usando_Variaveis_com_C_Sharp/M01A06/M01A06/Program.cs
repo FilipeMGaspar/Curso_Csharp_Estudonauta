@@ -13,4 +13,5 @@ Console.WriteLine("Variavel n = " + n);
 
 Console.WriteLine("Valor de PI = " + PI);
 Console.WriteLine("O valor oficial de pi é " + Math.PI);
+Console.WriteLine("O pi em Math é " + Math.PI.GetType());
 Console.ReadKey();
