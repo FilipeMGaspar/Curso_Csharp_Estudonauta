@@ -7,4 +7,6 @@ Console.WriteLine("Contante num = " + num);
 Console.WriteLine("Variavel n = " + n);
 n = 21;
 Console.WriteLine("Variavel n = " + n);
+ESCOLA = "Curso Em video";
+Console.WriteLine("Agora estudo no " + ESCOLA);
 Console.ReadKey();
