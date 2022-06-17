@@ -8,11 +8,11 @@ Console.WriteLine("B = " + b + " do tipo " + b.GetType());
 */
 
 // Conversão Explicita float->int
-float c = 7.75f;
-int d = (int)c; 
+float a = 7.75f;
+int b = (int)a; 
 
-Console.WriteLine("A = " + c + " do tipo " + c.GetType());
-Console.WriteLine("B = " + d + " do tipo " + d.GetType());
+Console.WriteLine("A = " + a + " do tipo " + a.GetType());
+Console.WriteLine("B = " + b + " do tipo " + b.GetType());
 
 
 // conversão
