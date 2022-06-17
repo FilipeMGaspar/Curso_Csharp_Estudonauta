@@ -7,8 +7,8 @@ bool aprovado = false;
 int x;
 var y = 5.5;
 
-int salarioBruto;
-float nota;
+int salarioBruto = 825;
+float nota = 15.26f;
 
 
 Console.WriteLine(estrela);
