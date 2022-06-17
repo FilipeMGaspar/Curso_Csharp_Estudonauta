@@ -12,4 +12,5 @@ Console.WriteLine("Variavel n = " + n);
 // Console.WriteLine("Agora estudo no " + ESCOLA);
 
 Console.WriteLine("Valor de PI = " + PI);
+Console.WriteLine("O valor oficial de pi é " + Math.PI);
 Console.ReadKey();
