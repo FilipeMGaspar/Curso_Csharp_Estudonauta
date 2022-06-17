@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Conversão implicita
+int a = 7;
+float b = a;
+
+Console.WriteLine("A = " + a);
+Console.WriteLine("B = " + b);
