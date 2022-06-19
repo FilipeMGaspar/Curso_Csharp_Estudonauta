@@ -30,7 +30,7 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.btnOk = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
+            this.lblNum = new System.Windows.Forms.Label();
             this.txtNum = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
@@ -51,17 +51,18 @@
             this.btnOk.TabIndex = 1;
             this.btnOk.Text = "OK";
             this.btnOk.UseVisualStyleBackColor = true;
+            this.btnOk.Click += new System.EventHandler(this.btnOk_Click);
             // 
-            // label2
+            // lblNum
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label2.Location = new System.Drawing.Point(25, 149);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(105, 25);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Mensagem";
-            this.label2.Visible = false;
+            this.lblNum.AutoSize = true;
+            this.lblNum.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblNum.Location = new System.Drawing.Point(25, 149);
+            this.lblNum.Name = "lblNum";
+            this.lblNum.Size = new System.Drawing.Size(105, 25);
+            this.lblNum.TabIndex = 2;
+            this.lblNum.Text = "Mensagem";
+            this.lblNum.Visible = false;
             // 
             // txtNum
             // 
@@ -77,7 +78,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(405, 203);
             this.Controls.Add(this.txtNum);
-            this.Controls.Add(this.label2);
+            this.Controls.Add(this.lblNum);
             this.Controls.Add(this.btnOk);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -94,7 +95,7 @@
 
         private Label label1;
         private Button btnOk;
-        private Label label2;
+        private Label lblNum;
         private TextBox txtNum;
     }
 }

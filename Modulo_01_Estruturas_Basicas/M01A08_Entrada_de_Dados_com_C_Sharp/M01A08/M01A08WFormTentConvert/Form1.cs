@@ -6,5 +6,13 @@ namespace M01A08WFormTentConvert
         {
             InitializeComponent();
         }
+
+        private void btnOk_Click(object sender, EventArgs e)
+        {
+            int num = 0;
+            int.TryParse(txtNum.Text, out num);
+            int d = num * 2;
+            
+        }
     }
 }
