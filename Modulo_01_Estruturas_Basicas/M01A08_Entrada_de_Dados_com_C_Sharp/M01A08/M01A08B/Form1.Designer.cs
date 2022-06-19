@@ -79,6 +79,7 @@
             this.Controls.Add(this.lblMsg);
             this.Controls.Add(this.txtNome);
             this.Controls.Add(this.label1);
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "M01A08 - Ler strings pelo teclado";

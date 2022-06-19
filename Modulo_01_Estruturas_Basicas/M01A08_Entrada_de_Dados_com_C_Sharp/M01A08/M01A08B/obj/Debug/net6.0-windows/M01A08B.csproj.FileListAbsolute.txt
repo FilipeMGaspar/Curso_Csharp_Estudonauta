@@ -1,0 +1,17 @@
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\bin\Debug\net6.0-windows\M01A08B.exe
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\bin\Debug\net6.0-windows\M01A08B.deps.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\bin\Debug\net6.0-windows\M01A08B.runtimeconfig.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\bin\Debug\net6.0-windows\M01A08B.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\bin\Debug\net6.0-windows\M01A08B.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\obj\Debug\net6.0-windows\M01A08B.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\obj\Debug\net6.0-windows\M01A08B.Form1.resources
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\obj\Debug\net6.0-windows\M01A08B.csproj.GenerateResource.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\obj\Debug\net6.0-windows\M01A08B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\obj\Debug\net6.0-windows\M01A08B.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\obj\Debug\net6.0-windows\M01A08B.AssemblyInfo.cs
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\obj\Debug\net6.0-windows\M01A08B.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\obj\Debug\net6.0-windows\M01A08B.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\obj\Debug\net6.0-windows\refint\M01A08B.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\obj\Debug\net6.0-windows\M01A08B.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\obj\Debug\net6.0-windows\M01A08B.genruntimeconfig.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A08_Entrada_de_Dados_com_C_Sharp\M01A08\M01A08B\obj\Debug\net6.0-windows\ref\M01A08B.dll
