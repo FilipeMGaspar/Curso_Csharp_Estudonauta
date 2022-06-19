@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtNome = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -43,12 +43,12 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Qual é o seu nome?";
             // 
-            // textBox1
+            // txtNome
             // 
-            this.textBox1.Location = new System.Drawing.Point(231, 48);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 23);
-            this.textBox1.TabIndex = 1;
+            this.txtNome.Location = new System.Drawing.Point(165, 48);
+            this.txtNome.Name = "txtNome";
+            this.txtNome.Size = new System.Drawing.Size(180, 23);
+            this.txtNome.TabIndex = 1;
             // 
             // label2
             // 
@@ -61,7 +61,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(190, 110);
+            this.button1.Location = new System.Drawing.Point(118, 99);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 3;
@@ -75,7 +75,7 @@
             this.ClientSize = new System.Drawing.Size(395, 188);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtNome);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -87,7 +87,7 @@
         #endregion
 
         private Label label1;
-        private TextBox textBox1;
+        private TextBox txtNome;
         private Label label2;
         private Button button1;
     }
