@@ -30,18 +30,19 @@
         {
             this.btnOk = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
+            this.txtNum = new System.Windows.Forms.TextBox();
+            this.lblNum = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnOk
             // 
-            this.btnOk.Location = new System.Drawing.Point(148, 124);
+            this.btnOk.Location = new System.Drawing.Point(103, 124);
             this.btnOk.Name = "btnOk";
-            this.btnOk.Size = new System.Drawing.Size(75, 23);
+            this.btnOk.Size = new System.Drawing.Size(184, 23);
             this.btnOk.TabIndex = 0;
             this.btnOk.Text = "OK";
             this.btnOk.UseVisualStyleBackColor = true;
+            this.btnOk.Click += new System.EventHandler(this.btnOk_Click);
             // 
             // label1
             // 
@@ -52,30 +53,31 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Insira um número:";
             // 
-            // textBox1
+            // txtNum
             // 
-            this.textBox1.Location = new System.Drawing.Point(213, 61);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 23);
-            this.textBox1.TabIndex = 2;
+            this.txtNum.Location = new System.Drawing.Point(213, 61);
+            this.txtNum.Name = "txtNum";
+            this.txtNum.Size = new System.Drawing.Size(74, 23);
+            this.txtNum.TabIndex = 2;
             // 
-            // label2
+            // lblNum
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(122, 211);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(38, 15);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "label2";
+            this.lblNum.AutoSize = true;
+            this.lblNum.Location = new System.Drawing.Point(141, 183);
+            this.lblNum.Name = "lblNum";
+            this.lblNum.Size = new System.Drawing.Size(66, 15);
+            this.lblNum.TabIndex = 3;
+            this.lblNum.Text = "Mensagem";
+            this.lblNum.Visible = false;
             // 
             // Form1
             // 
             this.AcceptButton = this.btnOk;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(555, 287);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.textBox1);
+            this.ClientSize = new System.Drawing.Size(479, 237);
+            this.Controls.Add(this.lblNum);
+            this.Controls.Add(this.txtNum);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnOk);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -93,7 +95,7 @@
 
         private Button btnOk;
         private Label label1;
-        private TextBox textBox1;
-        private Label label2;
+        private TextBox txtNum;
+        private Label lblNum;
     }
 }

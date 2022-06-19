@@ -6,5 +6,13 @@ namespace M01A08IntB
         {
             InitializeComponent();
         }
+
+        private void btnOk_Click(object sender, EventArgs e)
+        {
+            int num = Convert.ToInt32(txtNum.Text);
+            int d = num * 2;
+            lblNum.Text = "O dobro de " + num + " é igual a " + d;
+            lblNum.Visible = true;
+        }
     }
 }
