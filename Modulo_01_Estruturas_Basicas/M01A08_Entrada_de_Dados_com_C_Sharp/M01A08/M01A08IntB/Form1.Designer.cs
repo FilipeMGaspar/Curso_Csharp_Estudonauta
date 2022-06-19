@@ -36,7 +36,7 @@
             // 
             // btnOk
             // 
-            this.btnOk.Location = new System.Drawing.Point(103, 124);
+            this.btnOk.Location = new System.Drawing.Point(37, 96);
             this.btnOk.Name = "btnOk";
             this.btnOk.Size = new System.Drawing.Size(184, 23);
             this.btnOk.TabIndex = 0;
@@ -47,7 +47,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(103, 64);
+            this.label1.Location = new System.Drawing.Point(37, 36);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(104, 15);
             this.label1.TabIndex = 1;
@@ -55,7 +55,7 @@
             // 
             // txtNum
             // 
-            this.txtNum.Location = new System.Drawing.Point(213, 61);
+            this.txtNum.Location = new System.Drawing.Point(147, 33);
             this.txtNum.Name = "txtNum";
             this.txtNum.Size = new System.Drawing.Size(74, 23);
             this.txtNum.TabIndex = 2;
@@ -63,9 +63,10 @@
             // lblNum
             // 
             this.lblNum.AutoSize = true;
-            this.lblNum.Location = new System.Drawing.Point(141, 183);
+            this.lblNum.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblNum.Location = new System.Drawing.Point(75, 155);
             this.lblNum.Name = "lblNum";
-            this.lblNum.Size = new System.Drawing.Size(66, 15);
+            this.lblNum.Size = new System.Drawing.Size(87, 21);
             this.lblNum.TabIndex = 3;
             this.lblNum.Text = "Mensagem";
             this.lblNum.Visible = false;
@@ -75,7 +76,7 @@
             this.AcceptButton = this.btnOk;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(479, 237);
+            this.ClientSize = new System.Drawing.Size(335, 210);
             this.Controls.Add(this.lblNum);
             this.Controls.Add(this.txtNum);
             this.Controls.Add(this.label1);
