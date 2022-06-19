@@ -31,7 +31,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.btnOk = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtNum = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -61,13 +61,14 @@
             this.label2.Size = new System.Drawing.Size(105, 25);
             this.label2.TabIndex = 2;
             this.label2.Text = "Mensagem";
+            this.label2.Visible = false;
             // 
-            // textBox1
+            // txtNum
             // 
-            this.textBox1.Location = new System.Drawing.Point(135, 44);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 23);
-            this.textBox1.TabIndex = 3;
+            this.txtNum.Location = new System.Drawing.Point(135, 44);
+            this.txtNum.Name = "txtNum";
+            this.txtNum.Size = new System.Drawing.Size(100, 23);
+            this.txtNum.TabIndex = 3;
             // 
             // Form1
             // 
@@ -75,12 +76,15 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(405, 203);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtNum);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnOk);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "M01A08 - Tenta a conversão";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -91,6 +95,6 @@
         private Label label1;
         private Button btnOk;
         private Label label2;
-        private TextBox textBox1;
+        private TextBox txtNum;
     }
 }
