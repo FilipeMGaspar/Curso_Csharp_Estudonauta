@@ -9,7 +9,7 @@ namespace M01A08B
 
         private void btnOk_Click(object sender, EventArgs e)
         {
-            lblMsg.Text = txtNome.Text;
+            lblMsg.Text = "Olá" + txtNome.Text + ", seja bem vindo!";
             lblMsg.Visible = true;
         }
     }
