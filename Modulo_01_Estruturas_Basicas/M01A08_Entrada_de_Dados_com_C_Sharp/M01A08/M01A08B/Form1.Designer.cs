@@ -74,13 +74,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(466, 239);
+            this.ClientSize = new System.Drawing.Size(466, 266);
             this.Controls.Add(this.btnOk);
             this.Controls.Add(this.lblMsg);
             this.Controls.Add(this.txtNome);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "M01A08 - Ler strings pelo teclado";
             this.ResumeLayout(false);
             this.PerformLayout();
 
