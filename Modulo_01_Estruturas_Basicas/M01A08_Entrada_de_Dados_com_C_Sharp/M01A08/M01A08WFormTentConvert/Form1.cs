@@ -13,6 +13,7 @@ namespace M01A08WFormTentConvert
             int.TryParse(txtNum.Text, out num);
             int d = num * 2;
             lblNum.Text = "O dobro de " + num + " é " + d;
+            lblNum.Visible = true;
         }
     }
 }
