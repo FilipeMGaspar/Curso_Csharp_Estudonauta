@@ -1,4 +1,5 @@
 ﻿/* Lendo numeros */
+/* Mandei converter dá erro se vir uma string*/
 int num, d;
 
 Console.Write("Insira um número: ");
