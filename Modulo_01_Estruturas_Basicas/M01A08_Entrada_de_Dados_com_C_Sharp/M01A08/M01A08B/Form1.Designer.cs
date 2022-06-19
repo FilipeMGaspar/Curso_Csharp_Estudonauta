@@ -30,8 +30,8 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.txtNome = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.lblMsg = new System.Windows.Forms.Label();
+            this.btnOk = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -50,31 +50,33 @@
             this.txtNome.Size = new System.Drawing.Size(180, 23);
             this.txtNome.TabIndex = 1;
             // 
-            // label2
+            // lblMsg
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(198, 158);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(38, 15);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "label2";
+            this.lblMsg.AutoSize = true;
+            this.lblMsg.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblMsg.Location = new System.Drawing.Point(127, 191);
+            this.lblMsg.Name = "lblMsg";
+            this.lblMsg.Size = new System.Drawing.Size(105, 25);
+            this.lblMsg.TabIndex = 2;
+            this.lblMsg.Text = "Mensagem";
+            this.lblMsg.Visible = false;
             // 
-            // button1
+            // btnOk
             // 
-            this.button1.Location = new System.Drawing.Point(118, 99);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnOk.Location = new System.Drawing.Point(54, 104);
+            this.btnOk.Name = "btnOk";
+            this.btnOk.Size = new System.Drawing.Size(291, 45);
+            this.btnOk.TabIndex = 3;
+            this.btnOk.Text = "OK";
+            this.btnOk.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(395, 188);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.label2);
+            this.ClientSize = new System.Drawing.Size(466, 239);
+            this.Controls.Add(this.btnOk);
+            this.Controls.Add(this.lblMsg);
             this.Controls.Add(this.txtNome);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
@@ -88,7 +90,7 @@
 
         private Label label1;
         private TextBox txtNome;
-        private Label label2;
-        private Button button1;
+        private Label lblMsg;
+        private Button btnOk;
     }
 }
