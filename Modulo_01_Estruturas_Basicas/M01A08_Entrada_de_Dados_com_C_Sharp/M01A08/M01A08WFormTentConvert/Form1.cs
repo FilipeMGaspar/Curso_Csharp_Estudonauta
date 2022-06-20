@@ -9,7 +9,7 @@ namespace M01A08WFormTentConvert
 
         private void btnOk_Click(object sender, EventArgs e)
         {
-            int num = 0;
+            int num = 0; // variavel inteiro
             int.TryParse(txtNum.Text, out num);
             int d = num * 2;
             lblNum.Text = "O dobro de " + num + " é " + d;
