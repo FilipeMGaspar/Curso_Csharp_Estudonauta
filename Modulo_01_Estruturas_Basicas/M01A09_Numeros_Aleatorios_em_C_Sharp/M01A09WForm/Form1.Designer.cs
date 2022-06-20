@@ -56,6 +56,7 @@
             // 
             // btnGerar
             // 
+            this.btnGerar.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.btnGerar.Location = new System.Drawing.Point(81, 45);
             this.btnGerar.Name = "btnGerar";
             this.btnGerar.Size = new System.Drawing.Size(287, 75);
@@ -67,20 +68,20 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label2.Location = new System.Drawing.Point(81, 154);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(152, 20);
+            this.label2.Size = new System.Drawing.Size(159, 21);
             this.label2.TabIndex = 1;
             this.label2.Text = "Foi gerado o número:";
             // 
             // lblNum
             // 
             this.lblNum.AutoSize = true;
-            this.lblNum.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblNum.Location = new System.Drawing.Point(239, 154);
+            this.lblNum.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblNum.Location = new System.Drawing.Point(246, 154);
             this.lblNum.Name = "lblNum";
-            this.lblNum.Size = new System.Drawing.Size(63, 25);
+            this.lblNum.Size = new System.Drawing.Size(57, 21);
             this.lblNum.TabIndex = 2;
             this.lblNum.Text = "label3";
             this.lblNum.Visible = false;
