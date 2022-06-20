@@ -12,7 +12,7 @@ namespace M01A09WForm
             Random gerador = new Random();
             int n = gerador.Next(1, 11);
             lblNum.Text = n.ToString();
-            
+            lblNum.Visible = true;
         }
     }
 }
