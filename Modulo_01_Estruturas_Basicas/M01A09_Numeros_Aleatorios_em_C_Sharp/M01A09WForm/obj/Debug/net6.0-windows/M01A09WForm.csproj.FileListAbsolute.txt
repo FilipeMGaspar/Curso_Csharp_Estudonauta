@@ -1,0 +1,17 @@
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\bin\Debug\net6.0-windows\M01A09WForm.exe
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\bin\Debug\net6.0-windows\M01A09WForm.deps.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\bin\Debug\net6.0-windows\M01A09WForm.runtimeconfig.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\bin\Debug\net6.0-windows\M01A09WForm.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\bin\Debug\net6.0-windows\M01A09WForm.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\obj\Debug\net6.0-windows\M01A09WForm.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\obj\Debug\net6.0-windows\M01A09WForm.Form1.resources
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\obj\Debug\net6.0-windows\M01A09WForm.csproj.GenerateResource.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\obj\Debug\net6.0-windows\M01A09WForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\obj\Debug\net6.0-windows\M01A09WForm.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\obj\Debug\net6.0-windows\M01A09WForm.AssemblyInfo.cs
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\obj\Debug\net6.0-windows\M01A09WForm.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\obj\Debug\net6.0-windows\M01A09WForm.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\obj\Debug\net6.0-windows\refint\M01A09WForm.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\obj\Debug\net6.0-windows\M01A09WForm.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\obj\Debug\net6.0-windows\M01A09WForm.genruntimeconfig.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\obj\Debug\net6.0-windows\ref\M01A09WForm.dll

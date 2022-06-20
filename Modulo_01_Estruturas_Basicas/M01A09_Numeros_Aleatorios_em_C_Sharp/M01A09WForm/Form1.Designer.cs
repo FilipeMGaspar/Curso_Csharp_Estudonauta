@@ -68,7 +68,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label2.Location = new System.Drawing.Point(81, 149);
+            this.label2.Location = new System.Drawing.Point(81, 154);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(152, 20);
             this.label2.TabIndex = 1;
@@ -78,7 +78,7 @@
             // 
             this.lblNum.AutoSize = true;
             this.lblNum.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblNum.Location = new System.Drawing.Point(239, 149);
+            this.lblNum.Location = new System.Drawing.Point(239, 154);
             this.lblNum.Name = "lblNum";
             this.lblNum.Size = new System.Drawing.Size(63, 25);
             this.lblNum.TabIndex = 2;
