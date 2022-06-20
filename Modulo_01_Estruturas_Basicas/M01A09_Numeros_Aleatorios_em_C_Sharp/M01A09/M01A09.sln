@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M01A09", "M01A09\M01A09.csproj", "{AECC06A4-0142-4BED-8E78-C5DC27166BC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M01A09WForm", "..\..\M01A09_Numeros_Aleatorios_em_C_Sharp\M01A09WForm\M01A09WForm.csproj", "{571910DA-EAA0-4A0C-9702-809F89AFF071}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AECC06A4-0142-4BED-8E78-C5DC27166BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AECC06A4-0142-4BED-8E78-C5DC27166BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AECC06A4-0142-4BED-8E78-C5DC27166BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{571910DA-EAA0-4A0C-9702-809F89AFF071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571910DA-EAA0-4A0C-9702-809F89AFF071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571910DA-EAA0-4A0C-9702-809F89AFF071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571910DA-EAA0-4A0C-9702-809F89AFF071}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
