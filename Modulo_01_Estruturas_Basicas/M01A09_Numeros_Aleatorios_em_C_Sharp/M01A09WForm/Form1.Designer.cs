@@ -62,6 +62,7 @@
             this.btnGerar.TabIndex = 0;
             this.btnGerar.Text = "Gerar Número";
             this.btnGerar.UseVisualStyleBackColor = true;
+            this.btnGerar.Click += new System.EventHandler(this.btnGerar_Click);
             // 
             // label2
             // 
