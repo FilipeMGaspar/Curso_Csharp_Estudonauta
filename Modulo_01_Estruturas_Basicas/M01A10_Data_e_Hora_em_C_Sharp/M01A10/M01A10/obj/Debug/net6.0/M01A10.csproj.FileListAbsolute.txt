@@ -1,0 +1,15 @@
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\bin\Debug\net6.0\M01A10.exe
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\bin\Debug\net6.0\M01A10.deps.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\bin\Debug\net6.0\M01A10.runtimeconfig.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\bin\Debug\net6.0\M01A10.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\bin\Debug\net6.0\M01A10.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\obj\Debug\net6.0\M01A10.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\obj\Debug\net6.0\M01A10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\obj\Debug\net6.0\M01A10.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\obj\Debug\net6.0\M01A10.AssemblyInfo.cs
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\obj\Debug\net6.0\M01A10.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\obj\Debug\net6.0\M01A10.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\obj\Debug\net6.0\refint\M01A10.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\obj\Debug\net6.0\M01A10.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\obj\Debug\net6.0\M01A10.genruntimeconfig.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A10_Data_e_Hora_em_C_Sharp\M01A10\M01A10\obj\Debug\net6.0\ref\M01A10.dll
