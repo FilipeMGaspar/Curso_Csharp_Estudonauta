@@ -7,9 +7,11 @@ namespace M01A11WinForm
             InitializeComponent();
         }
 
-        private void btnOk_Click(object sender, EventArgs e)
+        private async void btnOk_Click(object sender, EventArgs e)
         {
-            lblMsg.Text = "Olá Tudo bem?";
+            lblMsg.Text = "Olá";
+            await Task.Delay(1000);
+            lblMsg.Text += ", tudo bem?";
         }
     }
 }
