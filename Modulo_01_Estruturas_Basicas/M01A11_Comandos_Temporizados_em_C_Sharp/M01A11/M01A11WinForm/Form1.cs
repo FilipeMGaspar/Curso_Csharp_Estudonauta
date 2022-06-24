@@ -6,5 +6,10 @@ namespace M01A11WinForm
         {
             InitializeComponent();
         }
+
+        private void btnOk_Click(object sender, EventArgs e)
+        {
+            lblMsg.Text = "Olá Tudo bem?";
+        }
     }
 }
