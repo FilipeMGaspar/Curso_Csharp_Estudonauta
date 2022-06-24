@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int anoAtual = DateTime.Now.Year;
+Console.WriteLine("Estamos no ano de " + anoAtual);
+
+Console.ReadKey();
