@@ -1,0 +1,15 @@
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\bin\Debug\net6.0\M01A11.exe
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\bin\Debug\net6.0\M01A11.deps.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\bin\Debug\net6.0\M01A11.runtimeconfig.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\bin\Debug\net6.0\M01A11.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\bin\Debug\net6.0\M01A11.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\obj\Debug\net6.0\M01A11.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\obj\Debug\net6.0\M01A11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\obj\Debug\net6.0\M01A11.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\obj\Debug\net6.0\M01A11.AssemblyInfo.cs
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\obj\Debug\net6.0\M01A11.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\obj\Debug\net6.0\M01A11.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\obj\Debug\net6.0\refint\M01A11.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\obj\Debug\net6.0\M01A11.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\obj\Debug\net6.0\M01A11.genruntimeconfig.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A11_Comandos_Temporizados_em_C_Sharp\M01A11\M01A11\obj\Debug\net6.0\ref\M01A11.dll
