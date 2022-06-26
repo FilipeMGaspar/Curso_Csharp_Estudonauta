@@ -8,4 +8,5 @@ int dia = DateTime.Now.Day;
 int mes = DateTime.Now.Month;
 int ano = DateTime.Now.Year;
 
+Console.WriteLine($"{dia}/{mes}/{ano}");
 Console.ReadKey();
