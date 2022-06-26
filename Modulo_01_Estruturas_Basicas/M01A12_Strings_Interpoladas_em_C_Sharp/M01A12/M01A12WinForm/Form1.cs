@@ -10,6 +10,7 @@ namespace M01A12WinForm
         private void Form1_Load(object sender, EventArgs e)
         {
             lblTxt.Text = $"{DateTime.Now.Day}/{DateTime.Now.Month}/{DateTime.Now.Year}";
+            lblTxt.Text += $" | {DateTime.Now.Hour}:{DateTime.Now.Minute}:{DateTime.Now.Second}";
         }
     }
 }

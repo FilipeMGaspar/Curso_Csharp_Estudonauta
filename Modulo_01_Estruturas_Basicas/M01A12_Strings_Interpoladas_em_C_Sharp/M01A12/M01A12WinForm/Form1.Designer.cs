@@ -34,7 +34,7 @@
             // lblTxt
             // 
             this.lblTxt.AutoSize = true;
-            this.lblTxt.Location = new System.Drawing.Point(35, 41);
+            this.lblTxt.Location = new System.Drawing.Point(295, 192);
             this.lblTxt.Name = "lblTxt";
             this.lblTxt.Size = new System.Drawing.Size(38, 15);
             this.lblTxt.TabIndex = 0;
