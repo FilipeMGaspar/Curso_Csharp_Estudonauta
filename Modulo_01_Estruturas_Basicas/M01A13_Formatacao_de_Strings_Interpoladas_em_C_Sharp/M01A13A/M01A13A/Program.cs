@@ -1,4 +1,7 @@
 ﻿string nome = "Filipe";
-Console.WriteLine($"Muito prazer {nome, -20}");
+float sal = 550.7556f;
+
+Console.WriteLine($"O {nome, 10} ganha {sal, 10}");
+//Console.WriteLine($"Muito prazer {nome, -3}");
 
 Console.ReadKey();
