@@ -8,7 +8,7 @@ Console.WriteLine($"O {nome, -10} tem {idade, -5:D3} anos e ganha {sal, 10:C3} p
 Console.WriteLine($"O número foi {num:X}");
 
 //Console.WriteLine($"Muito prazer {nome, -3}");
-Console.WriteLine($"O valor foi {valor}");
+Console.WriteLine($"O valor foi {valor:N2}");
 
 Console.ReadKey();
 
