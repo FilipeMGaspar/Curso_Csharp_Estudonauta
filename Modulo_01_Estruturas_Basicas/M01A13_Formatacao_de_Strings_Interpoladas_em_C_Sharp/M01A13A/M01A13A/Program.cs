@@ -1,4 +1,4 @@
-﻿string nome = "filipe";
-Console.WriteLine($"Muito prazer {nome}");
+﻿string nome = "Filipe";
+Console.WriteLine($"Muito prazer {nome, -20}");
 
 Console.ReadKey();
