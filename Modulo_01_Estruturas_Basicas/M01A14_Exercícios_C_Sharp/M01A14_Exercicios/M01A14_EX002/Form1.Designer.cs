@@ -42,6 +42,7 @@
             this.btnInicio.TabIndex = 0;
             this.btnInicio.Text = "Iniciar";
             this.btnInicio.UseVisualStyleBackColor = true;
+            this.btnInicio.Click += new System.EventHandler(this.btnInicio_Click);
             // 
             // lblMeu
             // 

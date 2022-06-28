@@ -6,5 +6,12 @@ namespace M01A14_EX002
         {
             InitializeComponent();
         }
+
+        private void btnInicio_Click(object sender, EventArgs e)
+        {
+            lblMeu.Visible = true;
+            lblBr.Visible = true;
+            lblBrleiro.Visible = true;
+        }
     }
 }
