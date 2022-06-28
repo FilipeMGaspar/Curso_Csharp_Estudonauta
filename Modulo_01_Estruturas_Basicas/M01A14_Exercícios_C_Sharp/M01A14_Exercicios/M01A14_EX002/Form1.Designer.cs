@@ -36,9 +36,9 @@
             // 
             // btnInicio
             // 
-            this.btnInicio.Location = new System.Drawing.Point(74, 108);
+            this.btnInicio.Location = new System.Drawing.Point(64, 108);
             this.btnInicio.Name = "btnInicio";
-            this.btnInicio.Size = new System.Drawing.Size(168, 37);
+            this.btnInicio.Size = new System.Drawing.Size(217, 37);
             this.btnInicio.TabIndex = 0;
             this.btnInicio.Text = "Iniciar";
             this.btnInicio.UseVisualStyleBackColor = true;
@@ -48,34 +48,34 @@
             // 
             this.lblMeu.AutoSize = true;
             this.lblMeu.BackColor = System.Drawing.SystemColors.Control;
-            this.lblMeu.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblMeu.Location = new System.Drawing.Point(74, 48);
+            this.lblMeu.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblMeu.Location = new System.Drawing.Point(67, 48);
             this.lblMeu.Name = "lblMeu";
-            this.lblMeu.Size = new System.Drawing.Size(38, 20);
+            this.lblMeu.Size = new System.Drawing.Size(43, 21);
             this.lblMeu.TabIndex = 1;
-            this.lblMeu.Text = "Meu";
+            this.lblMeu.Text = "MEU";
             this.lblMeu.Visible = false;
             // 
             // lblBr
             // 
             this.lblBr.AutoSize = true;
-            this.lblBr.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblBr.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lblBr.Location = new System.Drawing.Point(120, 48);
             this.lblBr.Name = "lblBr";
-            this.lblBr.Size = new System.Drawing.Size(45, 20);
+            this.lblBr.Size = new System.Drawing.Size(60, 21);
             this.lblBr.TabIndex = 2;
-            this.lblBr.Text = "Brasil";
+            this.lblBr.Text = "BRASIL";
             this.lblBr.Visible = false;
             // 
             // lblBrleiro
             // 
             this.lblBrleiro.AutoSize = true;
-            this.lblBrleiro.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblBrleiro.Location = new System.Drawing.Point(171, 48);
+            this.lblBrleiro.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblBrleiro.Location = new System.Drawing.Point(187, 48);
             this.lblBrleiro.Name = "lblBrleiro";
-            this.lblBrleiro.Size = new System.Drawing.Size(71, 20);
+            this.lblBrleiro.Size = new System.Drawing.Size(94, 21);
             this.lblBrleiro.TabIndex = 3;
-            this.lblBrleiro.Text = "Brasileiro";
+            this.lblBrleiro.Text = "BRASILEIRO";
             this.lblBrleiro.Visible = false;
             // 
             // Form1
