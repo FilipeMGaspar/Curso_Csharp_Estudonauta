@@ -47,6 +47,7 @@
             // lblMeu
             // 
             this.lblMeu.AutoSize = true;
+            this.lblMeu.BackColor = System.Drawing.SystemColors.Control;
             this.lblMeu.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lblMeu.Location = new System.Drawing.Point(74, 48);
             this.lblMeu.Name = "lblMeu";
