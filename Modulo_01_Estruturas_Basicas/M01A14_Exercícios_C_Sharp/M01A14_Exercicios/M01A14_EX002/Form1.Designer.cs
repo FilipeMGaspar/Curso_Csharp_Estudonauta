@@ -29,56 +29,59 @@
         private void InitializeComponent()
         {
             this.btnInicio = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
+            this.lblMeu = new System.Windows.Forms.Label();
+            this.lblBr = new System.Windows.Forms.Label();
+            this.lblBrleiro = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnInicio
             // 
-            this.btnInicio.Location = new System.Drawing.Point(126, 110);
+            this.btnInicio.Location = new System.Drawing.Point(74, 108);
             this.btnInicio.Name = "btnInicio";
-            this.btnInicio.Size = new System.Drawing.Size(93, 37);
+            this.btnInicio.Size = new System.Drawing.Size(152, 37);
             this.btnInicio.TabIndex = 0;
             this.btnInicio.Text = "Iniciar";
             this.btnInicio.UseVisualStyleBackColor = true;
             // 
-            // label1
+            // lblMeu
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(74, 48);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(31, 15);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Meu";
+            this.lblMeu.AutoSize = true;
+            this.lblMeu.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblMeu.Location = new System.Drawing.Point(74, 48);
+            this.lblMeu.Name = "lblMeu";
+            this.lblMeu.Size = new System.Drawing.Size(38, 20);
+            this.lblMeu.TabIndex = 1;
+            this.lblMeu.Text = "Meu";
             // 
-            // label2
+            // lblBr
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(126, 48);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(35, 15);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Brasil";
+            this.lblBr.AutoSize = true;
+            this.lblBr.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblBr.Location = new System.Drawing.Point(120, 48);
+            this.lblBr.Name = "lblBr";
+            this.lblBr.Size = new System.Drawing.Size(45, 20);
+            this.lblBr.TabIndex = 2;
+            this.lblBr.Text = "Brasil";
             // 
-            // label3
+            // lblBrleiro
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(190, 48);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(55, 15);
-            this.label3.TabIndex = 3;
-            this.label3.Text = "Brasileiro";
+            this.lblBrleiro.AutoSize = true;
+            this.lblBrleiro.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblBrleiro.Location = new System.Drawing.Point(171, 48);
+            this.lblBrleiro.Name = "lblBrleiro";
+            this.lblBrleiro.Size = new System.Drawing.Size(71, 20);
+            this.lblBrleiro.TabIndex = 3;
+            this.lblBrleiro.Text = "Brasileiro";
             // 
             // Form1
             // 
             this.AcceptButton = this.btnInicio;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(356, 187);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
+            this.ClientSize = new System.Drawing.Size(327, 187);
+            this.Controls.Add(this.lblBrleiro);
+            this.Controls.Add(this.lblBr);
+            this.Controls.Add(this.lblMeu);
             this.Controls.Add(this.btnInicio);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
@@ -94,8 +97,8 @@
         #endregion
 
         private Button btnInicio;
-        private Label label1;
-        private Label label2;
-        private Label label3;
+        private Label lblMeu;
+        private Label lblBr;
+        private Label lblBrleiro;
     }
 }
