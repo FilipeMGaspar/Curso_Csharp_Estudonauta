@@ -1,6 +1,8 @@
 ﻿Thread.Sleep(1000);
 Console.Write("Meu");
-Console.Write("Brasil");
-Console.WriteLine("Brasileiro");
+Thread.Sleep(1000);
+Console.Write(" Brasil");
+Thread.Sleep(1000);
+Console.WriteLine(" Brasileiro");
 
 Console.ReadKey();
