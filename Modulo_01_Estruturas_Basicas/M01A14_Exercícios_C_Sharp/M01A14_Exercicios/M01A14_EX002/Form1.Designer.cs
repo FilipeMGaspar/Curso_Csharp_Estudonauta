@@ -52,6 +52,7 @@
             this.lblMeu.Size = new System.Drawing.Size(38, 20);
             this.lblMeu.TabIndex = 1;
             this.lblMeu.Text = "Meu";
+            this.lblMeu.Visible = false;
             // 
             // lblBr
             // 
@@ -62,6 +63,7 @@
             this.lblBr.Size = new System.Drawing.Size(45, 20);
             this.lblBr.TabIndex = 2;
             this.lblBr.Text = "Brasil";
+            this.lblBr.Visible = false;
             // 
             // lblBrleiro
             // 
@@ -72,6 +74,7 @@
             this.lblBrleiro.Size = new System.Drawing.Size(71, 20);
             this.lblBrleiro.TabIndex = 3;
             this.lblBrleiro.Text = "Brasileiro";
+            this.lblBrleiro.Visible = false;
             // 
             // Form1
             // 
