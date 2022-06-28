@@ -38,7 +38,7 @@
             // 
             this.btnInicio.Location = new System.Drawing.Point(74, 108);
             this.btnInicio.Name = "btnInicio";
-            this.btnInicio.Size = new System.Drawing.Size(152, 37);
+            this.btnInicio.Size = new System.Drawing.Size(168, 37);
             this.btnInicio.TabIndex = 0;
             this.btnInicio.Text = "Iniciar";
             this.btnInicio.UseVisualStyleBackColor = true;

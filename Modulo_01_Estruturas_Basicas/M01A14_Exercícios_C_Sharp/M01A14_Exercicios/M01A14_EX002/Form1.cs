@@ -7,10 +7,13 @@ namespace M01A14_EX002
             InitializeComponent();
         }
 
-        private void btnInicio_Click(object sender, EventArgs e)
+        private async void btnInicio_Click(object sender, EventArgs e)
         {
+            await Task.Delay(200);
             lblMeu.Visible = true;
+            await Task.Delay(200);
             lblBr.Visible = true;
+            await Task.Delay(200);
             lblBrleiro.Visible = true;
         }
     }
