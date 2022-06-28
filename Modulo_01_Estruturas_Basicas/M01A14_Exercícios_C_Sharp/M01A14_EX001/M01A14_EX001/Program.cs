@@ -12,5 +12,5 @@ Console.ForegroundColor = ConsoleColor.Yellow;
 Thread.Sleep(1000);
 Console.WriteLine(" Brasileiro");
 Console.ResetColor();
-Console.WriteLine("teste");
+
 Console.ReadKey();
