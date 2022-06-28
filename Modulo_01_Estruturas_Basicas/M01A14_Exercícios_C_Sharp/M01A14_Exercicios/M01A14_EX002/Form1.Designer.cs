@@ -28,12 +28,36 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.btnInicio = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btnInicio
+            // 
+            this.btnInicio.Location = new System.Drawing.Point(187, 100);
+            this.btnInicio.Name = "btnInicio";
+            this.btnInicio.Size = new System.Drawing.Size(93, 37);
+            this.btnInicio.TabIndex = 0;
+            this.btnInicio.Text = "Iniciar";
+            this.btnInicio.UseVisualStyleBackColor = true;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(356, 212);
+            this.Controls.Add(this.btnInicio);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Brasil";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private Button btnInicio;
     }
 }
