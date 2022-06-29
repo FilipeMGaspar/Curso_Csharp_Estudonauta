@@ -28,7 +28,12 @@ namespace M01A14_EX004
 
             txtNum.Visible = false;
             btnOK.Visible = false;
+            lblTxt.Visible = false;
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

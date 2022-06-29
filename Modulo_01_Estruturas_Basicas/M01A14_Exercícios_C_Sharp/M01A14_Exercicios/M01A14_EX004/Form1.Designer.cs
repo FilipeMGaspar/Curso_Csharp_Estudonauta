@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.btnOK = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
+            this.lblTxt = new System.Windows.Forms.Label();
             this.txtNum = new System.Windows.Forms.TextBox();
             this.lblVal = new System.Windows.Forms.Label();
             this.lbl_Int = new System.Windows.Forms.Label();
@@ -46,15 +46,15 @@
             this.btnOK.UseVisualStyleBackColor = true;
             this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
             // 
-            // label1
+            // lblTxt
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(23, 42);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(167, 21);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Digite um número real";
+            this.lblTxt.AutoSize = true;
+            this.lblTxt.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblTxt.Location = new System.Drawing.Point(23, 42);
+            this.lblTxt.Name = "lblTxt";
+            this.lblTxt.Size = new System.Drawing.Size(167, 21);
+            this.lblTxt.TabIndex = 1;
+            this.lblTxt.Text = "Digite um número real";
             // 
             // txtNum
             // 
@@ -106,7 +106,7 @@
             this.Controls.Add(this.lbl_Int);
             this.Controls.Add(this.lblVal);
             this.Controls.Add(this.txtNum);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblTxt);
             this.Controls.Add(this.btnOK);
             this.MaximizeBox = false;
             this.Name = "Form1";
@@ -121,7 +121,7 @@
         #endregion
 
         private Button btnOK;
-        private Label label1;
+        private Label lblTxt;
         private TextBox txtNum;
         private Label lblVal;
         private Label lbl_Int;
