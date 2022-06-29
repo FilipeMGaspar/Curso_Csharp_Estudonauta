@@ -33,6 +33,7 @@
             this.txtNum = new System.Windows.Forms.TextBox();
             this.lblVal = new System.Windows.Forms.Label();
             this.lbl_Int = new System.Windows.Forms.Label();
+            this.lbl_IntRd = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnOK
@@ -65,20 +66,32 @@
             // lblVal
             // 
             this.lblVal.AutoSize = true;
-            this.lblVal.Location = new System.Drawing.Point(33, 108);
+            this.lblVal.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblVal.Location = new System.Drawing.Point(65, 100);
             this.lblVal.Name = "lblVal";
-            this.lblVal.Size = new System.Drawing.Size(115, 15);
+            this.lblVal.Size = new System.Drawing.Size(147, 20);
             this.lblVal.TabIndex = 3;
             this.lblVal.Text = "Você digitou o valor ";
             // 
             // lbl_Int
             // 
             this.lbl_Int.AutoSize = true;
-            this.lbl_Int.Location = new System.Drawing.Point(37, 143);
+            this.lbl_Int.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbl_Int.Location = new System.Drawing.Point(65, 137);
             this.lbl_Int.Name = "lbl_Int";
-            this.lbl_Int.Size = new System.Drawing.Size(93, 15);
+            this.lbl_Int.Size = new System.Drawing.Size(120, 20);
             this.lbl_Int.TabIndex = 4;
             this.lbl_Int.Text = "A parte inteira é ";
+            // 
+            // lbl_IntRd
+            // 
+            this.lbl_IntRd.AutoSize = true;
+            this.lbl_IntRd.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbl_IntRd.Location = new System.Drawing.Point(65, 174);
+            this.lbl_IntRd.Name = "lbl_IntRd";
+            this.lbl_IntRd.Size = new System.Drawing.Size(162, 20);
+            this.lbl_IntRd.TabIndex = 5;
+            this.lbl_IntRd.Text = "Arredondando,  temos ";
             // 
             // Form1
             // 
@@ -86,6 +99,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(427, 232);
+            this.Controls.Add(this.lbl_IntRd);
             this.Controls.Add(this.lbl_Int);
             this.Controls.Add(this.lblVal);
             this.Controls.Add(this.txtNum);
@@ -107,5 +121,6 @@
         private TextBox txtNum;
         private Label lblVal;
         private Label lbl_Int;
+        private Label lbl_IntRd;
     }
 }

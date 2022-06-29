@@ -17,7 +17,11 @@ namespace M01A14_EX004
 
             lbl_Int.Text += (int)num;
 
-            txtNum.Text = "";
+            lbl_IntRd.Text += Convert.ToInt16(num);
+
+            txtNum.Visible = false;
+            btnOK.Visible = false;
         }
+
     }
 }
