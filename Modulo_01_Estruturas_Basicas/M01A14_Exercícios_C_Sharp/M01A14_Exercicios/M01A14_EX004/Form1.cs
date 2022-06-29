@@ -7,16 +7,20 @@ namespace M01A14_EX004
             InitializeComponent();
         }
 
-        private void btnOK_Click(object sender, EventArgs e)
+        private async void btnOK_Click(object sender, EventArgs e)
         {
 
             float num = 0f;
 
             float.TryParse(txtNum.Text, out num);
+            
+            await Task.Delay(500);
             lblVal.Text += num;
 
+            await Task.Delay(500);
             lbl_Int.Text += (int)num;
 
+            await Task.Delay(500);
             lbl_IntRd.Text += Convert.ToInt16(num);
 
             txtNum.Visible = false;

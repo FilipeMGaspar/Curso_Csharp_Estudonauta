@@ -72,6 +72,7 @@
             this.lblVal.Size = new System.Drawing.Size(147, 20);
             this.lblVal.TabIndex = 3;
             this.lblVal.Text = "Você digitou o valor ";
+            this.lblVal.Visible = false;
             // 
             // lbl_Int
             // 
@@ -82,6 +83,7 @@
             this.lbl_Int.Size = new System.Drawing.Size(120, 20);
             this.lbl_Int.TabIndex = 4;
             this.lbl_Int.Text = "A parte inteira é ";
+            this.lbl_Int.Visible = false;
             // 
             // lbl_IntRd
             // 
@@ -92,6 +94,7 @@
             this.lbl_IntRd.Size = new System.Drawing.Size(162, 20);
             this.lbl_IntRd.TabIndex = 5;
             this.lbl_IntRd.Text = "Arredondando,  temos ";
+            this.lbl_IntRd.Visible = false;
             // 
             // Form1
             // 
