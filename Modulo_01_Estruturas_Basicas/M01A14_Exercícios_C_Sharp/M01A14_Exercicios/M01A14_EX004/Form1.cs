@@ -6,5 +6,12 @@ namespace M01A14_EX004
         {
             InitializeComponent();
         }
+
+        private void btnOK_Click(object sender, EventArgs e)
+        {
+            float num = 0f;
+            //num = float.TryParse(txtNum.Text, out num);
+           // lblVal.Text += 
+        }
     }
 }

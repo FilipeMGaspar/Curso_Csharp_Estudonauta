@@ -30,8 +30,8 @@
         {
             this.btnOK = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
+            this.txtNum = new System.Windows.Forms.TextBox();
+            this.lblVal = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnOK
@@ -42,6 +42,7 @@
             this.btnOK.TabIndex = 0;
             this.btnOK.Text = "OK";
             this.btnOK.UseVisualStyleBackColor = true;
+            this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
             // 
             // label1
             // 
@@ -53,21 +54,21 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Digite um número real";
             // 
-            // textBox1
+            // txtNum
             // 
-            this.textBox1.Location = new System.Drawing.Point(207, 42);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(58, 23);
-            this.textBox1.TabIndex = 2;
+            this.txtNum.Location = new System.Drawing.Point(207, 42);
+            this.txtNum.Name = "txtNum";
+            this.txtNum.Size = new System.Drawing.Size(58, 23);
+            this.txtNum.TabIndex = 2;
             // 
-            // label2
+            // lblVal
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(33, 108);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(115, 15);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "Você digitou o valor ";
+            this.lblVal.AutoSize = true;
+            this.lblVal.Location = new System.Drawing.Point(33, 108);
+            this.lblVal.Name = "lblVal";
+            this.lblVal.Size = new System.Drawing.Size(115, 15);
+            this.lblVal.TabIndex = 3;
+            this.lblVal.Text = "Você digitou o valor ";
             // 
             // Form1
             // 
@@ -75,8 +76,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(427, 232);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.lblVal);
+            this.Controls.Add(this.txtNum);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnOK);
             this.MaximizeBox = false;
@@ -92,7 +93,7 @@
 
         private Button btnOK;
         private Label label1;
-        private TextBox textBox1;
-        private Label label2;
+        private TextBox txtNum;
+        private Label lblVal;
     }
 }
