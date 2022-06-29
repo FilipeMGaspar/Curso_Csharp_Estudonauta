@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suporte\\Documents\\GitHub\\Curso_Csharp_Estudonauta\\Modulo_01_Estruturas_Basicas\\M01A14_Exercícios_C_Sharp\\M01A14_Exercicios\\M01A14_Ex003\\M01A14_Ex003.csproj": {}
+    "C:\\Users\\Suporte\\Documents\\GitHub\\Curso_Csharp_Estudonauta\\Modulo_01_Estruturas_Basicas\\M01A14_Exercícios_C_Sharp\\M01A14_Exercicios\\M01A14_Ex003\\M01A14_EX003.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suporte\\Documents\\GitHub\\Curso_Csharp_Estudonauta\\Modulo_01_Estruturas_Basicas\\M01A14_Exercícios_C_Sharp\\M01A14_Exercicios\\M01A14_Ex003\\M01A14_Ex003.csproj": {
+    "C:\\Users\\Suporte\\Documents\\GitHub\\Curso_Csharp_Estudonauta\\Modulo_01_Estruturas_Basicas\\M01A14_Exercícios_C_Sharp\\M01A14_Exercicios\\M01A14_Ex003\\M01A14_EX003.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suporte\\Documents\\GitHub\\Curso_Csharp_Estudonauta\\Modulo_01_Estruturas_Basicas\\M01A14_Exercícios_C_Sharp\\M01A14_Exercicios\\M01A14_Ex003\\M01A14_Ex003.csproj",
-        "projectName": "M01A14_Ex003",
-        "projectPath": "C:\\Users\\Suporte\\Documents\\GitHub\\Curso_Csharp_Estudonauta\\Modulo_01_Estruturas_Basicas\\M01A14_Exercícios_C_Sharp\\M01A14_Exercicios\\M01A14_Ex003\\M01A14_Ex003.csproj",
+        "projectUniqueName": "C:\\Users\\Suporte\\Documents\\GitHub\\Curso_Csharp_Estudonauta\\Modulo_01_Estruturas_Basicas\\M01A14_Exercícios_C_Sharp\\M01A14_Exercicios\\M01A14_Ex003\\M01A14_EX003.csproj",
+        "projectName": "M01A14_EX003",
+        "projectPath": "C:\\Users\\Suporte\\Documents\\GitHub\\Curso_Csharp_Estudonauta\\Modulo_01_Estruturas_Basicas\\M01A14_Exercícios_C_Sharp\\M01A14_Exercicios\\M01A14_Ex003\\M01A14_EX003.csproj",
         "packagesPath": "C:\\Users\\Suporte\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Suporte\\Documents\\GitHub\\Curso_Csharp_Estudonauta\\Modulo_01_Estruturas_Basicas\\M01A14_Exercícios_C_Sharp\\M01A14_Exercicios\\M01A14_Ex003\\obj\\",
         "projectStyle": "PackageReference",
