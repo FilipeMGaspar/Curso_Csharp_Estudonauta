@@ -16,12 +16,15 @@ namespace M01A14_EX004
             
             await Task.Delay(500);
             lblVal.Text += num;
+            lblVal.Visible = true;
 
             await Task.Delay(500);
             lbl_Int.Text += (int)num;
+            lbl_Int.Visible = true;
 
             await Task.Delay(500);
             lbl_IntRd.Text += Convert.ToInt16(num);
+            lbl_IntRd.Visible = true;
 
             txtNum.Visible = false;
             btnOK.Visible = false;
