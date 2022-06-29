@@ -32,6 +32,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txtNum = new System.Windows.Forms.TextBox();
             this.lblVal = new System.Windows.Forms.Label();
+            this.lbl_Int = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnOK
@@ -70,12 +71,22 @@
             this.lblVal.TabIndex = 3;
             this.lblVal.Text = "Você digitou o valor ";
             // 
+            // lbl_Int
+            // 
+            this.lbl_Int.AutoSize = true;
+            this.lbl_Int.Location = new System.Drawing.Point(37, 143);
+            this.lbl_Int.Name = "lbl_Int";
+            this.lbl_Int.Size = new System.Drawing.Size(93, 15);
+            this.lbl_Int.TabIndex = 4;
+            this.lbl_Int.Text = "A parte inteira é ";
+            // 
             // Form1
             // 
             this.AcceptButton = this.btnOK;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(427, 232);
+            this.Controls.Add(this.lbl_Int);
             this.Controls.Add(this.lblVal);
             this.Controls.Add(this.txtNum);
             this.Controls.Add(this.label1);
@@ -95,5 +106,6 @@
         private Label label1;
         private TextBox txtNum;
         private Label lblVal;
+        private Label lbl_Int;
     }
 }

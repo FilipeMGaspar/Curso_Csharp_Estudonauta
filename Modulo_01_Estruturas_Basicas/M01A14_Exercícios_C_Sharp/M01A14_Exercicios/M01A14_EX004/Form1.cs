@@ -9,10 +9,13 @@ namespace M01A14_EX004
 
         private void btnOK_Click(object sender, EventArgs e)
         {
+            txtNum.Text = "";
+
             float num = 0f;
 
             float.TryParse(txtNum.Text, out num);
             lblVal.Text += num;
+            lbl_Int.Text += (int)num;
         }
     }
 }
