@@ -1,4 +1,4 @@
-﻿float num;
+﻿float num = 0f;
 Console.Write("Digite um número real: ");
 float.TryParse(Console.ReadLine(), out num);
 
