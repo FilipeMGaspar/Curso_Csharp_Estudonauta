@@ -15,6 +15,7 @@ namespace M01A14_EX004
 
             float.TryParse(txtNum.Text, out num);
             lblVal.Text += num;
+
             lbl_Int.Text += (int)num;
         }
     }
