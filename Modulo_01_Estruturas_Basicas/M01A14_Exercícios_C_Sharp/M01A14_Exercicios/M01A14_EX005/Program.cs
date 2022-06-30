@@ -2,7 +2,10 @@
 int anoAtual = DateTime.Now.Year;
 Console.Write("Em que ano você nasceu? ");
 int.TryParse(Console.ReadLine(), out anoNasc);
+Thread.Sleep(300);
 Console.WriteLine("---------------------------------------");
+Thread.Sleep(500);
 Console.WriteLine($"Estamos no ano de {anoAtual}");
+Thread.Sleep(500);
 Console.WriteLine($"Quem nasceu em {anoNasc}, tem {anoAtual - anoNasc} anos");
 Console.ReadKey();
