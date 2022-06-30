@@ -1,5 +1,6 @@
 ﻿int anoNasc;
 int anoAtual = DateTime.Now.Year;
+Console.SetCursorPosition(10, 5);
 Console.Write("Em que ano você nasceu? ");
 int.TryParse(Console.ReadLine(), out anoNasc);
 Thread.Sleep(300);
