@@ -16,7 +16,8 @@ namespace M01A14_WinForm_EX006
             lblAnoAtual.Visible = true;
             lblAnoAtual.Text += anoAtual;
 
-            lbl_Idade.Text = $"Quem nasceu {anoNasc}, vai ter {anoAtual - anoNasc}";
+            await Task.Delay(500);
+            lbl_Idade.Text = $"Quem nasceu {anoNasc}, vai ter {anoAtual - anoNasc} anos";
             lbl_Idade.Visible = true;
         }
     }
