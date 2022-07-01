@@ -31,6 +31,7 @@
             this.btnOk = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.txtAnoNasc = new System.Windows.Forms.TextBox();
+            this.lblAnoAtual = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnOk
@@ -60,12 +61,24 @@
             this.txtAnoNasc.Size = new System.Drawing.Size(81, 23);
             this.txtAnoNasc.TabIndex = 2;
             // 
+            // lblAnoAtual
+            // 
+            this.lblAnoAtual.AutoSize = true;
+            this.lblAnoAtual.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblAnoAtual.Location = new System.Drawing.Point(43, 102);
+            this.lblAnoAtual.Name = "lblAnoAtual";
+            this.lblAnoAtual.Size = new System.Drawing.Size(145, 21);
+            this.lblAnoAtual.TabIndex = 3;
+            this.lblAnoAtual.Text = "Estamos no ano de ";
+            this.lblAnoAtual.Visible = false;
+            // 
             // Form1
             // 
             this.AcceptButton = this.btnOk;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(464, 264);
+            this.Controls.Add(this.lblAnoAtual);
             this.Controls.Add(this.txtAnoNasc);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnOk);
@@ -85,5 +98,6 @@
         private Button btnOk;
         private Label label1;
         private TextBox txtAnoNasc;
+        private Label lblAnoAtual;
     }
 }

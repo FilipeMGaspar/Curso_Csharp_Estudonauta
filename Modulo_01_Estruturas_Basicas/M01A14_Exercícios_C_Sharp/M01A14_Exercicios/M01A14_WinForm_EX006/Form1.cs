@@ -13,7 +13,7 @@ namespace M01A14_WinForm_EX006
             int anoNasc;
             int.TryParse(txtAnoNasc.Text, out anoNasc);
             await Task.Delay(500);
-
+            lblAnoAtual.Text += anoAtual;
         }
     }
 }
