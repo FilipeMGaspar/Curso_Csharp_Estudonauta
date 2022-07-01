@@ -32,6 +32,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txtAnoNasc = new System.Windows.Forms.TextBox();
             this.lblAnoAtual = new System.Windows.Forms.Label();
+            this.lbl_Idade = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnOk
@@ -72,12 +73,24 @@
             this.lblAnoAtual.Text = "Estamos no ano de ";
             this.lblAnoAtual.Visible = false;
             // 
+            // lbl_Idade
+            // 
+            this.lbl_Idade.AutoSize = true;
+            this.lbl_Idade.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbl_Idade.Location = new System.Drawing.Point(43, 139);
+            this.lbl_Idade.Name = "lbl_Idade";
+            this.lbl_Idade.Size = new System.Drawing.Size(52, 21);
+            this.lbl_Idade.TabIndex = 4;
+            this.lbl_Idade.Text = "label2";
+            this.lbl_Idade.Visible = false;
+            // 
             // Form1
             // 
             this.AcceptButton = this.btnOk;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(464, 264);
+            this.Controls.Add(this.lbl_Idade);
             this.Controls.Add(this.lblAnoAtual);
             this.Controls.Add(this.txtAnoNasc);
             this.Controls.Add(this.label1);
@@ -99,5 +112,6 @@
         private Label label1;
         private TextBox txtAnoNasc;
         private Label lblAnoAtual;
+        private Label lbl_Idade;
     }
 }
