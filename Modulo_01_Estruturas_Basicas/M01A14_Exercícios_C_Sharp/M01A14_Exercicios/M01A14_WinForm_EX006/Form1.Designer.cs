@@ -30,7 +30,7 @@
         {
             this.btnOk = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtAnoNasc = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // btnOk
@@ -41,6 +41,7 @@
             this.btnOk.TabIndex = 0;
             this.btnOk.Text = "OK";
             this.btnOk.UseVisualStyleBackColor = true;
+            this.btnOk.Click += new System.EventHandler(this.btnOk_Click);
             // 
             // label1
             // 
@@ -52,12 +53,12 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Em que ano nasceu?";
             // 
-            // textBox1
+            // txtAnoNasc
             // 
-            this.textBox1.Location = new System.Drawing.Point(206, 42);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(81, 23);
-            this.textBox1.TabIndex = 2;
+            this.txtAnoNasc.Location = new System.Drawing.Point(206, 42);
+            this.txtAnoNasc.Name = "txtAnoNasc";
+            this.txtAnoNasc.Size = new System.Drawing.Size(81, 23);
+            this.txtAnoNasc.TabIndex = 2;
             // 
             // Form1
             // 
@@ -65,7 +66,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(464, 264);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtAnoNasc);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnOk);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -83,6 +84,6 @@
 
         private Button btnOk;
         private Label label1;
-        private TextBox textBox1;
+        private TextBox txtAnoNasc;
     }
 }

@@ -6,5 +6,12 @@ namespace M01A14_WinForm_EX006
         {
             InitializeComponent();
         }
+
+        private void btnOk_Click(object sender, EventArgs e)
+        {
+            int anoAtual = DateTime.Now.Year;
+            int anoNasc;
+            //int.TryParse(, out anoNasc);
+        }
     }
 }
