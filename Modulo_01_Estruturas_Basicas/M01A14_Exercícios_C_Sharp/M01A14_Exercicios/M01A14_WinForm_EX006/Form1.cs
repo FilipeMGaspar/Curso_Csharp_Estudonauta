@@ -17,6 +17,7 @@ namespace M01A14_WinForm_EX006
             lblAnoAtual.Text += anoAtual;
 
             lbl_Idade.Text = $"Quem nasceu {anoNasc}, vai ter {anoAtual - anoNasc}";
+            lbl_Idade.Visible = true;
         }
     }
 }
