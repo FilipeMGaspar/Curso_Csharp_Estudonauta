@@ -24,5 +24,10 @@ namespace M01A14_EX006
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
