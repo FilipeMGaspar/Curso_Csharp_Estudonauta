@@ -1,6 +1,8 @@
 ﻿int inicio;
 int fim;
 
+//gerador = new Random;
+
 Console.WriteLine("SORTEADOR DE NÚMERO");
 Console.WriteLine("-------------------");
 Console.Write("Início: ");
