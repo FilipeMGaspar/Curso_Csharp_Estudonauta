@@ -7,7 +7,7 @@ namespace M01A14_WinForm_EX008
             InitializeComponent();
         }
 
-        private void Btn_sorteia_Click(object sender, EventArgs e)
+        private async void Btn_sorteia_Click(object sender, EventArgs e)
         {
             int inicio;
             int fim;
@@ -18,6 +18,19 @@ namespace M01A14_WinForm_EX008
             int.TryParse(txt_Fim.Text, out fim);
             sorteado = gerador.Next(inicio, (fim + 1));
 
+            await Task.Delay(700);
+            lblSorte.Visible = true;
+            await Task.Delay(350);
+            lblSorte.Text += ".";
+            await Task.Delay(350);
+            lblSorte.Text += ".";
+            await Task.Delay(350);
+            lblSorte.Text += ".";
+            await Task.Delay(350);
+            lblSorte.Text += ".";
+            await Task.Delay(350);
+            lblSorte.Text += ".";
+            await Task.Delay(350);
             lblSorte.Text += ".";
         }
     }
