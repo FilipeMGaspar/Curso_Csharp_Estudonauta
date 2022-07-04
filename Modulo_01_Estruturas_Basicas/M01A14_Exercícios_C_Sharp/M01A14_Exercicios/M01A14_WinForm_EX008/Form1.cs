@@ -20,22 +20,18 @@ namespace M01A14_WinForm_EX008
 
             await Task.Delay(700);
             lblSorte.Visible = true;
-            await Task.Delay(350);
+            await Task.Delay(500);
             lblSorte.Text += " .";
-            await Task.Delay(350);
+            await Task.Delay(450);
+            lblSorte.Text += ".";
+            await Task.Delay(400);
             lblSorte.Text += ".";
             await Task.Delay(350);
             lblSorte.Text += ".";
-            await Task.Delay(350);
+            await Task.Delay(300);
             lblSorte.Text += ".";
-            await Task.Delay(350);
-            lblSorte.Text += ".";
-            await Task.Delay(350);
-            lblSorte.Text += ".";
-            await Task.Delay(350);
-            lblSorte.Text += ".";
-            await Task.Delay(350);
-            lblSorte.Text += ".";
+            await Task.Delay(400);
+
         }
     }
 }
