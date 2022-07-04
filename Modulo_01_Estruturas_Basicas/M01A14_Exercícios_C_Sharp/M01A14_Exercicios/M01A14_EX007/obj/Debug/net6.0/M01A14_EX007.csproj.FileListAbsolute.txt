@@ -1,0 +1,15 @@
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\bin\Debug\net6.0\M01A14_EX007.exe
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\bin\Debug\net6.0\M01A14_EX007.deps.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\bin\Debug\net6.0\M01A14_EX007.runtimeconfig.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\bin\Debug\net6.0\M01A14_EX007.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\bin\Debug\net6.0\M01A14_EX007.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\obj\Debug\net6.0\M01A14_EX007.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\obj\Debug\net6.0\M01A14_EX007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\obj\Debug\net6.0\M01A14_EX007.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\obj\Debug\net6.0\M01A14_EX007.AssemblyInfo.cs
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\obj\Debug\net6.0\M01A14_EX007.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\obj\Debug\net6.0\M01A14_EX007.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\obj\Debug\net6.0\refint\M01A14_EX007.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\obj\Debug\net6.0\M01A14_EX007.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\obj\Debug\net6.0\M01A14_EX007.genruntimeconfig.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_01_Estruturas_Basicas\M01A14_Exercícios_C_Sharp\M01A14_Exercicios\M01A14_EX007\obj\Debug\net6.0\ref\M01A14_EX007.dll
