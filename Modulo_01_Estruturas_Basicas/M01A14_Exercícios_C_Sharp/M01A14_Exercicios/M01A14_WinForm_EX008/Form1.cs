@@ -21,6 +21,10 @@ namespace M01A14_WinForm_EX008
             await Task.Delay(700);
             lblSorte.Visible = true;
             await Task.Delay(350);
+            lblSorte.Text += " .";
+            await Task.Delay(350);
+            lblSorte.Text += ".";
+            await Task.Delay(350);
             lblSorte.Text += ".";
             await Task.Delay(350);
             lblSorte.Text += ".";
