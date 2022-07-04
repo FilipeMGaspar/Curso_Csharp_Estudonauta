@@ -26,16 +26,17 @@ namespace M01A14_WinForm_EX008
             lblSorte.Visible = true;
             await Task.Delay(500);
             lblSorte.Text += " . ";
-            await Task.Delay(450);
+            await Task.Delay(500);
             lblSorte.Text += ". ";
-            await Task.Delay(400);
+            await Task.Delay(500);
             lblSorte.Text += ". ";
-            await Task.Delay(350);
+            await Task.Delay(500);
             lblSorte.Text += ". ";
-            await Task.Delay(300);
+            await Task.Delay(500);
             lblSorte.Text += ". ";
-            await Task.Delay(400);
+            await Task.Delay(500);
 
+            lblSorte.Text = $"Entre o {inicio} e o {fim} sorteei o nº {sorteado}";
         }
     }
 }
