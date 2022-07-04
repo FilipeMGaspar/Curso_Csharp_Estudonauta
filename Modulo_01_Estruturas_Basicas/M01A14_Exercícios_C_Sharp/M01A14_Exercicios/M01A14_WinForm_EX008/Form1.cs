@@ -34,7 +34,7 @@ namespace M01A14_WinForm_EX008
             lblSorte.Text += ". ";
             await Task.Delay(500);
             lblSorte.Text += ". ";
-            await Task.Delay(800);
+            await Task.Delay(1000);
 
             lblSorte.Text = $"Entre o {inicio} e o {fim} sorteei o nº {sorteado}";
         }
