@@ -11,8 +11,10 @@ namespace M01A14_WinForm_EX008
         {
             int inicio;
             int fim;
+            Random gerador = new Random();
 
             int.TryParse(txt_Inicio.Text, out inicio);
+            int.TryParse(txt_Fim.Text, out fim);
         }
     }
 }
