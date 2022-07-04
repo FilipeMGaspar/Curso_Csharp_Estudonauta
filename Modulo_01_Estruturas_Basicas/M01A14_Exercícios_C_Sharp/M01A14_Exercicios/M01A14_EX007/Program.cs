@@ -17,7 +17,7 @@ Console.Write(".");
 Thread.Sleep(300);
 Console.Write(".");
 Thread.Sleep(300);
-Console.Write(".");
+Console.Write(".\n");
 Thread.Sleep(600);
 Console.WriteLine($"Entre {inicio} e {fim} sorteei o número ");
 Console.ReadKey();
