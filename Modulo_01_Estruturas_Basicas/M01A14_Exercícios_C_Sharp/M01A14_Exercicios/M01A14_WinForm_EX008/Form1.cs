@@ -18,6 +18,8 @@ namespace M01A14_WinForm_EX008
             int.TryParse(txt_Fim.Text, out fim);
             sorteado = gerador.Next(inicio, (fim + 1));
 
+            lblSorte.Text = "Vou sortear um número";
+
             await Task.Delay(700);
             lblSorte.Visible = true;
             await Task.Delay(500);

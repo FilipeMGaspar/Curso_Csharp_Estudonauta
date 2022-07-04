@@ -86,9 +86,9 @@
             this.lblSorte.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lblSorte.Location = new System.Drawing.Point(35, 213);
             this.lblSorte.Name = "lblSorte";
-            this.lblSorte.Size = new System.Drawing.Size(176, 21);
+            this.lblSorte.Size = new System.Drawing.Size(87, 21);
             this.lblSorte.TabIndex = 5;
-            this.lblSorte.Text = "Vou sortear um número";
+            this.lblSorte.Text = "Mensagem";
             this.lblSorte.Visible = false;
             // 
             // Form1
