@@ -30,9 +30,10 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.txt_Inicio = new System.Windows.Forms.TextBox();
+            this.txt_Fim = new System.Windows.Forms.TextBox();
+            this.Btn_sorteia = new System.Windows.Forms.Button();
+            this.lblSorte = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -55,37 +56,50 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Fim";
             // 
-            // textBox1
+            // txt_Inicio
             // 
-            this.textBox1.Location = new System.Drawing.Point(125, 51);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(71, 23);
-            this.textBox1.TabIndex = 2;
+            this.txt_Inicio.Location = new System.Drawing.Point(125, 51);
+            this.txt_Inicio.Name = "txt_Inicio";
+            this.txt_Inicio.Size = new System.Drawing.Size(71, 23);
+            this.txt_Inicio.TabIndex = 2;
             // 
-            // textBox2
+            // txt_Fim
             // 
-            this.textBox2.Location = new System.Drawing.Point(125, 97);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(71, 23);
-            this.textBox2.TabIndex = 3;
+            this.txt_Fim.Location = new System.Drawing.Point(125, 97);
+            this.txt_Fim.Name = "txt_Fim";
+            this.txt_Fim.Size = new System.Drawing.Size(71, 23);
+            this.txt_Fim.TabIndex = 3;
             // 
-            // button1
+            // Btn_sorteia
             // 
-            this.button1.Location = new System.Drawing.Point(61, 153);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(135, 33);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.Btn_sorteia.Location = new System.Drawing.Point(61, 153);
+            this.Btn_sorteia.Name = "Btn_sorteia";
+            this.Btn_sorteia.Size = new System.Drawing.Size(135, 33);
+            this.Btn_sorteia.TabIndex = 4;
+            this.Btn_sorteia.Text = "SORTEAR";
+            this.Btn_sorteia.UseVisualStyleBackColor = true;
+            this.Btn_sorteia.Click += new System.EventHandler(this.Btn_sorteia_Click);
+            // 
+            // lblSorte
+            // 
+            this.lblSorte.AutoSize = true;
+            this.lblSorte.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblSorte.Location = new System.Drawing.Point(35, 213);
+            this.lblSorte.Name = "lblSorte";
+            this.lblSorte.Size = new System.Drawing.Size(176, 21);
+            this.lblSorte.TabIndex = 5;
+            this.lblSorte.Text = "Vou sortear um número";
+            this.lblSorte.Visible = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(351, 304);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.lblSorte);
+            this.Controls.Add(this.Btn_sorteia);
+            this.Controls.Add(this.txt_Fim);
+            this.Controls.Add(this.txt_Inicio);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -103,8 +117,9 @@
 
         private Label label1;
         private Label label2;
-        private TextBox textBox1;
-        private TextBox textBox2;
-        private Button button1;
+        private TextBox txt_Inicio;
+        private TextBox txt_Fim;
+        private Button Btn_sorteia;
+        private Label lblSorte;
     }
 }

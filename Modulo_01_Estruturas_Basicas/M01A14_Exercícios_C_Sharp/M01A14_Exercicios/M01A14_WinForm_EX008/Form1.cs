@@ -6,5 +6,10 @@ namespace M01A14_WinForm_EX008
         {
             InitializeComponent();
         }
+
+        private void Btn_sorteia_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
