@@ -16,8 +16,12 @@ nomeProd2 = Console.ReadLine();
 Console.Write("\tPreço ..: ");
 float.TryParse(Console.ReadLine(), out precoProd2);
 
-
-Console.WriteLine($"{nomeProd} {precoProd,10:C2}");
-Console.WriteLine($"{nomeProd2} {precoProd2, 10:C2}");
+Console.SetCursorPosition(0, 10);
+Console.BackgroundColor = ConsoleColor.DarkBlue;
+Console.ForegroundColor = ConsoleColor.White;
+Console.WriteLine(" Produto \t Preço");
+Console.ResetColor();
+Console.WriteLine($"{nomeProd} {precoProd,20:C2}");
+Console.WriteLine($"{nomeProd2} {precoProd2, 20:C2}");
 
 Console.ReadKey();
