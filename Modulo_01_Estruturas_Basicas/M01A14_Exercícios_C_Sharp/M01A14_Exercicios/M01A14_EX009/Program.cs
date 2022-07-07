@@ -21,7 +21,7 @@ Console.BackgroundColor = ConsoleColor.DarkBlue;
 Console.ForegroundColor = ConsoleColor.White;
 Console.WriteLine($" Produto {null, 20} Preço ");
 Console.ResetColor();
-Console.WriteLine($"{nomeProd} {precoProd,20:C2}");
-Console.WriteLine($"{nomeProd2} {precoProd2, 20:C2}");
+Console.WriteLine($"{nomeProd} {precoProd,30:C2}");
+Console.WriteLine($"{nomeProd2} {precoProd2, 30:C2}");
 
 Console.ReadKey();
