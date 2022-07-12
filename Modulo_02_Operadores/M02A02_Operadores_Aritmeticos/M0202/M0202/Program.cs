@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine(3+2 /2);
+
+Console.WriteLine();
+Console.WriteLine((3+2)/2);
+
+Console.ReadKey();
