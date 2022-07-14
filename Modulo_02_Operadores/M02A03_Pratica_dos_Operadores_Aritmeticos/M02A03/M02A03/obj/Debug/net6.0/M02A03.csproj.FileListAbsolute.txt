@@ -1,0 +1,15 @@
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\bin\Debug\net6.0\M02A03.exe
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\bin\Debug\net6.0\M02A03.deps.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\bin\Debug\net6.0\M02A03.runtimeconfig.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\bin\Debug\net6.0\M02A03.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\bin\Debug\net6.0\M02A03.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\obj\Debug\net6.0\M02A03.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\obj\Debug\net6.0\M02A03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\obj\Debug\net6.0\M02A03.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\obj\Debug\net6.0\M02A03.AssemblyInfo.cs
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\obj\Debug\net6.0\M02A03.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\obj\Debug\net6.0\M02A03.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\obj\Debug\net6.0\refint\M02A03.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\obj\Debug\net6.0\M02A03.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\obj\Debug\net6.0\M02A03.genruntimeconfig.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A03_Pratica_dos_Operadores_Aritmeticos\M02A03\M02A03\obj\Debug\net6.0\ref\M02A03.dll
