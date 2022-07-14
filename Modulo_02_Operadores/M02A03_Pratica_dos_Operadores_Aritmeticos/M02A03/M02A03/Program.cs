@@ -5,6 +5,7 @@ int op2 = 0;
 
 Console.Write("Digite um valor inteiro: ");
 int.TryParse(Console.ReadLine(), out op1);
+
 Console.Write("Digite outro número inteiro: ");
 int.TryParse(Console.ReadLine(), out op2);
 
