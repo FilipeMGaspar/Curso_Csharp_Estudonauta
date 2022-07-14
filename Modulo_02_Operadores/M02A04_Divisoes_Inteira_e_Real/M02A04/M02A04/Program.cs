@@ -1,5 +1,11 @@
-﻿int op1 = 7;
-int op2 = 2;
+﻿int op1 = 0;
+int op2 = 0;
+
+Console.Write("Numerador: ");
+int.TryParse(Console.ReadLine(), out op1);
+
+Console.Write("Denominador: ");
+int.TryParse(Console.ReadLine(), out op2);
 
 int divInt = op1 / op2;
 
