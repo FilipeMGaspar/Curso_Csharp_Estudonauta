@@ -1,7 +1,12 @@
 ﻿// Exemplo de operadores aritméticos
 
-int op1 = 5;
-int op2 = 2;
+int op1 = 0;
+int op2 = 0;
+
+Console.Write("Digite um valor inteiro: ");
+int.TryParse(Console.ReadLine(), out op1);
+Console.Write("Digite outro número inteiro: ");
+int.TryParse(Console.ReadLine(), out op2);
 
 Console.WriteLine($"Calculando +{op1} = {+ op1}"); //operador de identidade
 Console.WriteLine($"Calculando -{op1} = {- op1}"); //operador de negação aritmética
