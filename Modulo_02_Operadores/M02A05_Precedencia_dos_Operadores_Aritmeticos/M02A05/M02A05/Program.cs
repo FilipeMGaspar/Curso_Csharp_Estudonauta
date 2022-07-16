@@ -1,5 +1,10 @@
-﻿float nota1 = 3f;
-float nota2 = 4f;
+﻿float nota1 = 0f;
+float nota2 = 0f;
+
+Console.Write("Insira a nota do primeiro teste: ");
+float.TryParse(Console.ReadLine(), out nota1);
+Console.Write("Insira a nota do segundo teste: ");
+float.TryParse(Console.ReadLine(), out nota2);
 
 float media = (nota1 + nota2) / 2;
 
