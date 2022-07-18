@@ -15,6 +15,6 @@ Console.WriteLine($"{n1} > {n2} ? {n1 > n2}");
 Console.WriteLine($"{n1} < {n2} ? {n1 < n2}");
 Console.WriteLine($"{n1} >= {n2} ? {n1 >= n2}");
 Console.WriteLine($"{n1} <= {n2} ? {n1 <= n2}");
-Console.WriteLine($"{n1} é inteiro {n1 is int}");
+Console.WriteLine($"{n1} é inteiro ? {n1 is int}");
 
 Console.ReadKey();
