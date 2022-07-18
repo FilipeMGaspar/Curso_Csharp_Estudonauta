@@ -1,0 +1,15 @@
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\bin\Debug\net6.0\M02A07.exe
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\bin\Debug\net6.0\M02A07.deps.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\bin\Debug\net6.0\M02A07.runtimeconfig.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\bin\Debug\net6.0\M02A07.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\bin\Debug\net6.0\M02A07.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\obj\Debug\net6.0\M02A07.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\obj\Debug\net6.0\M02A07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\obj\Debug\net6.0\M02A07.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\obj\Debug\net6.0\M02A07.AssemblyInfo.cs
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\obj\Debug\net6.0\M02A07.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\obj\Debug\net6.0\M02A07.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\obj\Debug\net6.0\refint\M02A07.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\obj\Debug\net6.0\M02A07.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\obj\Debug\net6.0\M02A07.genruntimeconfig.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A05_Precedencia_dos_Operadores_Aritmeticos\M02A07\M02A07\obj\Debug\net6.0\ref\M02A07.dll
