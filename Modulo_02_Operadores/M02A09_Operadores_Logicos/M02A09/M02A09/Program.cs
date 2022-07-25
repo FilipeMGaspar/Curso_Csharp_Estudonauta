@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿bool p = true;
+bool q = false;
+
+Console.WriteLine($"não {p} é {!p}");
+
+Console.ReadKey();
