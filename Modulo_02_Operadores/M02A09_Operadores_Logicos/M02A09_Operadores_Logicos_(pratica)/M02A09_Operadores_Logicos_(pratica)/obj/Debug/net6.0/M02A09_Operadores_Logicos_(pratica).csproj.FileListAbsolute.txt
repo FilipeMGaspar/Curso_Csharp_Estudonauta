@@ -1,0 +1,1 @@
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09_Operadores_Logicos_(pratica)\M02A09_Operadores_Logicos_(pratica)\obj\Debug\net6.0\M02A09_Operadores_Logicos_(pratica).GeneratedMSBuildEditorConfig.editorconfig
