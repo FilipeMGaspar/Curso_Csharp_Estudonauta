@@ -1,0 +1,15 @@
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\bin\Debug\net6.0\M02A09.exe
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\bin\Debug\net6.0\M02A09.deps.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\bin\Debug\net6.0\M02A09.runtimeconfig.json
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\bin\Debug\net6.0\M02A09.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\bin\Debug\net6.0\M02A09.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\obj\Debug\net6.0\M02A09.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\obj\Debug\net6.0\M02A09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\obj\Debug\net6.0\M02A09.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\obj\Debug\net6.0\M02A09.AssemblyInfo.cs
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\obj\Debug\net6.0\M02A09.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\obj\Debug\net6.0\M02A09.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\obj\Debug\net6.0\refint\M02A09.dll
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\obj\Debug\net6.0\M02A09.pdb
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\obj\Debug\net6.0\M02A09.genruntimeconfig.cache
+C:\Users\Suporte\Documents\GitHub\Curso_Csharp_Estudonauta\Modulo_02_Operadores\M02A09_Operadores_Logicos\M02A09\M02A09\obj\Debug\net6.0\ref\M02A09.dll
